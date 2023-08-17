@@ -113,6 +113,7 @@ function App() {
     setGameStage(stages[0].name);
   };
 
+
   // Clear letter states
   const clearLetterStates = () => {
     setGuessedLetters([]);
