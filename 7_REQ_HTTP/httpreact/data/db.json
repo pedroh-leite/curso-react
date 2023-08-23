@@ -16,11 +16,6 @@
       "price": 29.9
     },
     {
-      "name": "teste",
-      "price": "1",
-      "id": 4
-    },
-    {
       "name": "Capa de chuva",
       "price": "50.5",
       "id": 5
@@ -34,6 +29,41 @@
       "name": "Cadeira",
       "price": "200",
       "id": 7
+    },
+    {
+      "name": "Monitor",
+      "price": "600",
+      "id": 9
+    },
+    {
+      "name": "Mesa",
+      "price": "120",
+      "id": 19
+    },
+    {
+      "name": "Cabo HDMI",
+      "price": "10",
+      "id": 20
+    },
+    {
+      "name": "Suporte microfone",
+      "price": "60",
+      "id": 21
+    },
+    {
+      "name": "Cabo de rede",
+      "price": "8",
+      "id": 22
+    },
+    {
+      "name": "Switch de notebook",
+      "price": "80",
+      "id": 23
+    },
+    {
+      "name": "Fonte de carregador",
+      "price": "65",
+      "id": 25
     }
   ]
 }
